@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 600px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    
+}

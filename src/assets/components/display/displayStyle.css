@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Digital7';
+    src: url('./font/Digital7-rg1mL.ttf') format('truetype');
+}
+
+
+.tela {
+    background-color: rgb(53, 40, 40);
+    width: 300px;
+    height: 60px;
+    position: relative;
+    border-radius: 20px;
+    font-family: 'Digital7';
+    margin-top: 50px;
+    
+}
+
+p {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 10px;
+    font-size: 25px;
+    background-color: tr;
+    color: white;
+    background-color: transparent;
+} 
