@@ -12,3 +12,20 @@
     border-radius: 25px;
     
 }
+
+@media screen and (max-width: 650px){
+    .flex {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 50px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        width: 350px;
+        height: 600px;
+        background-color: aliceblue;
+        border-radius: 25px;
+        }
+        
+}
